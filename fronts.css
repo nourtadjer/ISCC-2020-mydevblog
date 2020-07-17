@@ -1,0 +1,45 @@
+body {
+    background-color:lightgoldenrodyellow;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: lightseagreen;
+}
+
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: x-large;
+}
+
+li a:hover {
+    background-color: seagreen;
+} 
+
+.image_footer_container {
+    display: block;
+    text-align: center;
+   }
+.image_footer {
+    width: 400px;
+    height: 400px;
+   }
+p{
+    text-align: center;
+    font-size: x-large;
+
+}
+h1{
+    text-align: center;
+    background-color: lightseagreen;
+}
